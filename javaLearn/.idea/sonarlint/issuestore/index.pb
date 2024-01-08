@@ -97,3 +97,7 @@ m
 =src/main/java/org/example/javacommunity/task/AlishevDay1.java,7\5\758bbaf16f944e87bcecb176748b83060a38aba4
 m
 =src/main/java/org/example/javacommunity/task/AlishevDay2.java,a\7\a70e8d639566fe62850bff41fbb3bc77ca34ef0e
+g
+7src/main/java/org/example/javacommunity/task/Task3.java,7\8\78a8e351001215db20f453a19b7c354e1bc931a7
+f
+6src/main/java/org/example/javacommunity/task/test.java,b\6\b6d3157cac598d2968617bbf2aa342dc29756c9f
