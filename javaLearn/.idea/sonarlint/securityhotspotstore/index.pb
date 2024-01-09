@@ -101,3 +101,15 @@ g
 7src/main/java/org/example/javacommunity/task/Task3.java,7\8\78a8e351001215db20f453a19b7c354e1bc931a7
 f
 6src/main/java/org/example/javacommunity/task/test.java,b\6\b6d3157cac598d2968617bbf2aa342dc29756c9f
+j
+:src/main/java/org/example/javacommunity/task/KataTest.java,8\9\8923c5dd720957908e15c2bcaa845808e571a6f7
+h
+8src/main/java/org/example/javacommunity/task/Square.java,8\2\824156827d51faabdace5c858eedd9738cc6ee8d
+g
+7src/main/java/org/example/javacommunity/task/Task4.java,f\9\f99993e160417727f9384e1661b57e766ccfedcb
+g
+7src/main/java/org/example/javacommunity/task/Task5.java,6\e\6ec4f775184a72b13fe8009d6556a531dba36fe1
+g
+7src/main/java/org/example/javacommunity/task/Task6.java,0\b\0bc64dca34de4f5ce7f7b5a9aa207edba62c9de7
+g
+7src/main/java/org/example/javacommunity/task/Task7.java,5\b\5b4f64748c946e9cf26859dd77fba51d0c841cee
