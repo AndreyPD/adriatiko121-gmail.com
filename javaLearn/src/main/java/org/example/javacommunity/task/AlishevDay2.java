@@ -6,9 +6,9 @@ public class AlishevDay2 {
     static Scanner sc = new Scanner(System.in);
 
     public static void main(String[] args) {
-        distributionOfTypeOfHouse(sc.nextInt());
+        //distributionOfTypeOfHouse(sc.nextInt());
         wthoutName(sc.nextInt(), sc.nextInt());
-        formulaXY(sc.nextDouble());
+        // formulaXY(sc.nextDouble());
     }
 
 

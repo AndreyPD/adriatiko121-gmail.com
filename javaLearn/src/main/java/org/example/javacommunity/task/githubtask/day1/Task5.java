@@ -1,4 +1,4 @@
-package org.example.javacommunity.task;
+package org.example.javacommunity.task.githubtask.day1;
 
 import java.util.Scanner;
 
